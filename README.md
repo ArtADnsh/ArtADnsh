@@ -1,7 +1,8 @@
-## Hi there 👋
+Hi, I'm **Arta Danesh** — a Computer Engineering student at IUST, Tehran.
 
-My name's Arta Danesh, I'm a CE student in IUST, Tehran. Interested in Python, Django, Data Science & C++!
+- 💻 Passionate about Python, Django, Data Science, MySql, and C++
+- 🔭 Currently working on several Django projects
+- 🌱 Actively learning more about Django & MySQL
+- 📫 Reach me: [Email](mailto:artadnsh@gmail.com), [Telegram](https://t.me/ArtA_dnsh)
 
-- 🔭 I’m currently working on bunch of Django projects
-- 🌱 I’m currently learning more aout Django & MySQL
-- 📫 How to reach me: [Telegram](https://t.me/ArtA_dnsh), [Whatsapp](wa.me/qr/UZ25Q6ZP27L3N1), via Email: artadnsh@gmail.com
+Let's connect and build something awesome together!
